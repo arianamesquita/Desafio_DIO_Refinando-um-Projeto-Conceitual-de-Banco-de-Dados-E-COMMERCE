@@ -1,4 +1,4 @@
-Descrição do Desafio
+Descrição do Desafio - E-commerce
 
 O esquema deverá ser adicionado a um repositório do Github para futura avaliação do desafio de projeto. Adicione ao Readme a descrição do projeto conceitual para fornecer o contexto sobre seu esquema.
 Objetivo:
@@ -10,3 +10,5 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
     Entrega – Possui status e código de rastreio;
 
 Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pela expert e suba seu projeto para um repositório próprio, com isso, você aumentará ainda mais seu portfólio de projetos no GitHub!
+
+O arquivo Universidade, Universidade_refinado e Ordem de Serviço se referem aos outros modelos feitos no desafio.
